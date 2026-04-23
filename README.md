@@ -11,13 +11,12 @@
 🎓 B.Sc Computer Science (3rd Year)
 🎯 Goal: Software Engineer / Developer
 💻 Passionate about MERN Stack, Java & AI Projects
-🚀 Built a **Cloud Conference App**
-🏋️‍♂️ Routine = Code 💻 + Gym 🏋️ + Chill 😎
-📍 India 🇮🇳
+🚀 Built a **Ecommerce Website Clothiq and AI based ADS Generator AdsAble.Ai**
+⛹️ Routine = Code 💻 + Listen Music 🎶🎧
+📍 Mumbai, India 🇮🇳
 
 ---
 
-## 🛠 Tech Stack
 
 ## 🛠 Tech Stack  
 
@@ -115,13 +114,24 @@
 
 ### 🚧 Upcoming Project
 
-### 🛒 Advanced E-commerce Platform (PERN + AI)
+### 🚧 Upcoming Project
 
-* Building scalable e-commerce app using **PostgreSQL + Prisma + NeonDB**
-* Integrating **Clerk Authentication & Stripe Payments (future scope)**
-* Adding **AI product recommendations using Google AI API**
-* API testing with **Hoppscotch**
-* Focus on modern architecture & production-level features
+### 🎥 Cloud Conference Application (Real-Time Video Platform)
+
+* Building a scalable video conferencing app similar to Google Meet / Microsoft Teams
+* Implementing **real-time video & audio communication using WebRTC**
+* Backend powered by **Node.js + Express + Socket.io** for signaling
+* Using **PostgreSQL (NeonDB) + Prisma ORM** for user & meeting data
+* Secure authentication with **Clerk / Firebase Auth**
+* Features:
+
+  * 🔹 Create & join meeting rooms
+  * 🔹 Screen sharing & chat system
+  * 🔹 Participant management (mute/unmute, controls)
+  * 🔹 Meeting scheduling & history
+* Deploying using **Vercel + Render** with scalable architecture
+* API testing using **Hoppscotch**
+
 
 
 ---
