@@ -134,7 +134,6 @@
 
 
 
----
 
 ## 📈 GitHub Stats
 
@@ -142,11 +141,12 @@
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ayush-Coder077\&theme=tokyonight)
 
 ---
+
 
 ## 🌐 Connect with Me
 
